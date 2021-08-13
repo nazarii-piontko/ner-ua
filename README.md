@@ -6,7 +6,7 @@ Machine learning model uses BERT algorithm from Google (https://github.com/googl
 
 The solution includes:
 * tokenizer: [preprocessing.py](preprocessing.py) - used for sentences and word tokenizing;
-* model: [model.py](model.py);
+* model: [models.py](models.py);
 * training script: [train.py](train.py);
 * test script: [test.py](test.py);
 
@@ -22,7 +22,7 @@ Categorical accuracy on test set (15% from all texts): ___0.9805___
 
 Рішення включає:
 * токенізатор: [preprocessing.py](preprocessing.py) - використовується для токенізації речень та слів;
-* модель: [model.py](model.py);
+* модель: [models.py](models.py);
 * тренувальний сценарій: [train.py](train.py);
 * тестовий сценарій: [test.py](test.py);
 
